@@ -24,6 +24,13 @@
             <p>HTML,CSS,JavaScript,Three.js</p>
           </a>
         </div>
+        <div class="clone-site">
+            <a href="https://vuetodo-beta.vercel.app/">
+            <img src="img/todo.jpg" alt="">
+            <h2>Vue.js를 활용한 TodoList </h2>
+            <p>HTML,CSS,JavaScript,Vue</p>
+          </a>
+        </div>
       </div>
     </div>
   </section>
