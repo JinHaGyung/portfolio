@@ -223,7 +223,7 @@
           <img src="img/diary.png" alt="">
           <span @click="sonymodal = true">제작일지 보러가기</span>
         </div>
-        <a href="https://sony-site.herokuapp.com/">
+        <a href="https://sony-site.herokuapp.com/" target='_blank'>
           <div class="textimg homelink">
               <img src="img/homeicon.png" alt="">
               <span>홈페이지 보러가기</span>
@@ -249,7 +249,7 @@
           <img src="img/diary.png" alt="">
           <span @click="kbmodal = true">제작일지 보러가기</span>
         </div>
-        <a href="https://kbbank.herokuapp.com/">
+        <a href="https://kbbank.herokuapp.com/" target='_blank'>
           <div class="textimg homelink">
               <img src="img/homeicon.png" alt="">
               <span>홈페이지 보러가기</span>
@@ -267,7 +267,7 @@
           three.js와 관련된 재질, 카메라, 조명 등 다양한 부분을 활용하고 HTML, CSS까지 적용한 사이트로 <br>
           자기소개와 경력을 기술해서 올린 자기소개용 사이트입니다.
           </p>
-        <a href="https://dreamroom-boko.vercel.app/">
+        <a href="https://dreamroom-boko.vercel.app/" target='_blank'>
           <div class="textimg homelink">
               <img src="img/homeicon.png" alt="">
               <span>홈페이지 보러가기</span>
@@ -285,7 +285,7 @@
           실제 인터넷을 통해 배포한 토이 프로젝트로 30여명의 사용자가 사이트를 이용했으며, three.js를 활용하여 안경의 디자인을 상세하게 확인할 수 있고 <br>
           db 연동을 통해 많은 사람들이 찾는 디자인, 형태 등을 정리한 프로젝트입니다.
           </p>
-        <a href="https://glassesmatch.herokuapp.com/">
+        <a href="https://glassesmatch.herokuapp.com/" target='_blank'>
           <div class="textimg homelink">
               <img src="img/homeicon.png" alt="">
               <span>홈페이지 보러가기</span>
@@ -432,6 +432,7 @@ div{
   background-color: rgba(0,0,0,0.5);
   position: absolute;
   padding: 20px;
+  z-index: 1000;
 }
 .white-bg{
   position: relative;

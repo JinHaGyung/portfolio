@@ -4,28 +4,28 @@
       <h1 class="title">클론코딩 / 코딩연습</h1>
       <div class="clone-img-wrap">
         <div class="clone-site">
-          <a href="https://homeclone.netlify.app/">
+          <a href="https://homeclone.netlify.app/" target='_blank'>
             <img src="img/homeclone.jpg" alt="">
             <h2>싱그러운 집 클론코딩</h2>
             <p>HTML,CSS,JavaScript</p>
           </a>
         </div>
         <div class="clone-site">
-          <a href="https://richmondclone.netlify.app/">
+          <a href="https://richmondclone.netlify.app/" target='_blank'>
             <img src="img/rici.jpg" alt="">
             <h2>리치몬드 클론코딩</h2>
             <p>HTML,CSS,JavaScript</p>
           </a>
         </div>
         <div class="clone-site">
-          <a href="https://threejs-study-gamma.vercel.app/">
+          <a href="https://threejs-study-gamma.vercel.app/" target='_blank'>
             <img src="img/mordenthreejs.jpg" alt="">
             <h2>morden three.js 연습 </h2>
             <p>HTML,CSS,JavaScript,Three.js</p>
           </a>
         </div>
         <div class="clone-site">
-            <a href="https://vuetodo-beta.vercel.app/">
+            <a href="https://vuetodo-beta.vercel.app/" target='_blank'>
             <img src="img/todo.jpg" alt="">
             <h2>Vue.js를 활용한 TodoList </h2>
             <p>HTML,CSS,JavaScript,Vue</p>
