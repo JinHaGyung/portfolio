@@ -281,8 +281,8 @@
       <div class="glassesmatch">
         <h2>Toy프로젝트 안경궁합</h2>
         <span>PhotoShop,Illustrator,HTML,CSS,JavaScript,Three.js,MySql,Node.js</span>
-        <p>사용자의 얼굴형 혹은 원하는 분위기에 안경테를 추천해주는 1인 프로젝트로 실제 배포까지 완료한 프로젝트입니다. <br>
-          실제 인터넷을 통해 배포한 토이 프로젝트로 30여명의 사용자가 사이트를 이용했으며, three.js를 활용하여 안경의 디자인을 상세하게 확인할 수 있고 <br>
+        <p>사용자의 얼굴형 혹은 원하는 분위기에 안경테를 추천해주는 1인 프로젝트로 실제 배포까지 완료한 사이드 프로젝트입니다. <br>
+          실제 인터넷을 통해 배포/홍보한 토이 프로젝트로 50여명의 사용자가 사이트를 이용했으며, three.js를 활용하여 안경의 디자인을 상세하게 확인할 수 있고 <br>
           db 연동을 통해 많은 사람들이 찾는 디자인, 형태 등을 정리한 프로젝트입니다.
           </p>
         <a href="https://glassesmatch.herokuapp.com/" target='_blank'>
