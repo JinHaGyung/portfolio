@@ -437,6 +437,8 @@ div{
 .white-bg{
   position: relative;
   max-width: 1440px;
+  height: 1000px;
+  overflow: scroll;
   top: 200px;
   width: 100%;
   background-color: white;
